@@ -8,7 +8,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .card {
-  height: 75vh;
   background-color: rgb(250, 248, 248);
   margin: 5% 10%;
   border-radius: 10px;
@@ -47,6 +46,7 @@ body {
 
 .skills {
   margin-left: 3%;
+  padding-bottom: 5%;
 }
 
 .skills h4 {
